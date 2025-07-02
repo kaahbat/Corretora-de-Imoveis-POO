@@ -1,8 +1,4 @@
-//
-//Created by cacan on 31/10/2023.
-//
-
-#include "imovel.h"
+#include "../include/imovel.h"
 
 //Construtor da classe Imovel
 Imovel::Imovel(int id, float valor, string proprietario, string cidade, string bairro, string rua, int numero, int quartos, int banheiros) 

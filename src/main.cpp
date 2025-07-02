@@ -1,9 +1,9 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include "imovel.h"
-#include "menu.h"
-#include "funcoes.h"
+#include "../include/imovel.h"
+#include "../include/menu.h"
+#include "../include/funcoes.h"
 
 int main() {
     ifstream arquivo("database_imoveis.txt"); //abre o arquivo

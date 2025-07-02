@@ -4,8 +4,8 @@
 #include <algorithm>
 #include <memory>
 #include <iomanip>
-#include "menu.h"
-#include "funcoes.h"
+#include "../include/menu.h"
+#include "../include/funcoes.h"
 
 Menu::Menu(vector<Imovel*>& imoveis) : allImoveis(imoveis) {} //construtor
 

@@ -1,4 +1,4 @@
-#include "casa.h"
+#include "../include/casa.h"
 
 //Construtor da classe Casa que herda de Imovel
 Casa::Casa(int id, float valor, string proprietario, string cidade, string bairro, string rua, int numero, int quartos,

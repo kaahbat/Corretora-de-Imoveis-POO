@@ -1,6 +1,4 @@
-
-
-#include "funcoes.h"
+#include "../include/funcoes.h"
 
 
 

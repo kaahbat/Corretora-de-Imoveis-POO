@@ -1,5 +1,4 @@
-
-#include "chacara.h"
+#include "../include/chacara.h"
 
 //Construtor da classe Chacara que herda de Imovel
 Chacara::Chacara(int id, float valor, string proprietario, string cidade, string bairro, string rua, int numero, int quartos, int banheiros,

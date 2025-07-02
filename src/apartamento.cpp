@@ -1,4 +1,4 @@
-#include "apartamento.h"
+#include "../include/apartamento.h"
 
 //Construtor da classe Apartamento que herda de Imovel
 Apartamento::Apartamento(int id, float valor, string proprietario, string cidade, string bairro,
